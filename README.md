@@ -1,4 +1,4 @@
-## Bombardiro Crocodilo
+## Bombardiero Crocodilo
 <img src="./croco.jpg" alt="crocodillo" style="height: 400px;"><br> 
 ![Счётчик](https://komarev.com/ghpvc/?username=DeadBlazze)
 ---
