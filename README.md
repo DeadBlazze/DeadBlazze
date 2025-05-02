@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Ansys](https://i.ibb.co/Q74VLzRT/dildo01.png)
 ![Femap](https://img.shields.io/badge/-adidas-090909?style=for-the-badge&logo=adidas&logoColor=white)
-![Firebase](https://img.shields.io/badge/-nike-090909?style=for-the-badge&logo=nike&logoColor=F8C52C)
+![Firebase](https://img.shields.io/badge/-nike-090909?style=for-the-badge&logo=nike&logoColor=white)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Counter-Strike-%23F24E1E.svg?style=for-the-badge&logo=counter-strike&logoColor=white)
