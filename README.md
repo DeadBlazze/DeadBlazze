@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Ansys](https://img.shields.io/badge/-Ansys-090909?logo=Ansys&logoColor=f7f50a)
+![Ansys]([https://moriarti.shop/assets/dildo.svg)
 ![Femap](https://img.shields.io/badge/-Femap-090909?style=for-the-badge&logo=&logoColor=0a5ef7)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
