@@ -1,5 +1,5 @@
 ## Bombardiro Crocodilo
-<img src="./croco.jpg" alt="crocodillo" style="height: 500px;"><br> 
+<img src="./croco.jpg" alt="crocodillo" style="height: 400px;"><br> 
 ![Счётчик](https://komarev.com/ghpvc/?username=DeadBlazze)
 ---
 ![VueJS](https://img.shields.io/badge/VueJS-212121?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
