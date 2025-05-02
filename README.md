@@ -4,6 +4,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-fd2c1c?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-192339?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <img src="./php1.svg?height=20px" alt="PHP" style="height: 28px;">
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS icon">
+<img src="./mysql.svg?height=20px" alt="MySQL" style="height: 28px;">
 ![Adidas](https://img.shields.io/badge/-adidas-090909?style=for-the-badge&logo=adidas&logoColor=white)
 ![Nike](https://img.shields.io/badge/-nike-090909?style=for-the-badge&logo=nike&logoColor=white)
 ![IKEA](https://img.shields.io/badge/-IKEA-090909?style=for-the-badge&logo=ikea&logoColor=E5D3FF)
