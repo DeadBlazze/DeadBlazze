@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Ansys](https://i.ibb.co/DPTc9nGK/didlo.png)
-![Ansys](https://iimg.su/i/i5v858)
+![Ansys](https://i.ibb.co/Q74VLzRT/dildo01.png)
 ![Femap](https://img.shields.io/badge/-Femap-090909?style=for-the-badge&logo=&logoColor=0a5ef7)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
